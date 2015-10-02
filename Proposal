@@ -1,0 +1,50 @@
+# IOT-Security
+Security Protocols for IOT based smart home devices
+Security Protocols for Smart Home Devices
+
+Group name: IOT-Security
+Members: Vibhav Bhangale
+	       Sunny Nipun Dasu
+
+Problem statement:
+•	Smart homes is an application of IoT, which allows you to remotely control home appliances and devices such as Garage doors, television set, thermostat etc.
+•	These devices are able to communicate with each other and send vital information for better management of home.
+•	Companies producing smart devices for home have been oblivious to the consequences of an unsecure communication between the devices as well the remote controlling device.
+•	We plan to secure the intercommunication between the devices and with the internet, so that humans with malicious intent do not misuse the data or the device.
+
+ 
+Proposed Solution:
+•	M2M communication: Encrypt the transmission data using an algorithm that consumes less power for encryption and decryption to prevent eavesdroppers from accessing private data.
+
+•	Securing Machine to web communication to prevent unauthorized access to the machine.
+
+•	Securing Machine to Remote device communication..
+	
+
+Implementation:
+Platform: Microsoft Windows 10
+
+Programming language: Java
+
+Components: Not definitive at present.
+
+Hardware requirements: An android based device, running on at least Android 5.0 
+Timeline:
+Mid-October - Provide the research details of the algorithms.
+Mid-October - Mid November - Develop the applications and provide code commits for the application
+Mid-November - December - Commit entire project and start testing.
+
+
+Task distribution:
+
+Sunny Nipun Dasu: 
+1.	Researching on Algorithms
+2.	Developing the application
+3.	Securing machine to web communication
+4.	Testing
+
+Vibhav Bhangale:
+1.	Researching on Algorithms for Encryption
+2.	Securing M2M communication
+3.	Securing Remote device communication
+4.	Testing
